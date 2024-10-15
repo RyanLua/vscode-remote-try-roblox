@@ -4,7 +4,7 @@
 
 A **development container** is a running container with a well-defined tool/runtime stack and its prerequisites. You can try out development containers with **[GitHub Codespaces](https://github.com/features/codespaces)** or **[Visual Studio Code Dev Containers](https://aka.ms/vscode-remote/containers)**.
 
-This is a sample project that lets you try out either option in a few easy steps. Microsoft have a variety of other [vscode-remote-try-*](https://github.com/search?q=org%3Amicrosoft+vscode-remote-try-&type=Repositories) sample projects, too.
+This is a sample project that lets you try out either option in a few easy steps. Microsoft has a variety of other [vscode-remote-try-*](https://github.com/search?q=org%3Amicrosoft+vscode-remote-try-&type=Repositories) sample projects, too.
 
 > **Note:** If you already have a codespace or dev container, you can jump to the [Things to try](#things-to-try) section. 
 
